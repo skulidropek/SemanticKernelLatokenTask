@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "SemanticKernelLatokenTask": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "openai-api-key": ""
+      }
+    }
+  }
+}
